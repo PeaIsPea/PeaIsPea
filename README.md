@@ -1,6 +1,6 @@
 
 ## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/html.html.2dasd/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pea_2201/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnEBOvhJLtbKZuNei9QikVQ)[![Spotify](https://i.imgur.com/btn-spotify.png)](https://open.spotify.com/artist/0wBHW81onV2Yi04HXVCT0f?si=EMF936HfSrWduIECAOAtHw&nd=1&dlsi=38ebeb345eea441f)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/html.html.2dasd/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pea_2201/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCnEBOvhJLtbKZuNei9QikVQ)
 
 
 # 💻Tech Stack
