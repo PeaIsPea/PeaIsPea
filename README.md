@@ -21,7 +21,7 @@
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
   "autosize": true,
-  "symbol": "NASDAQ:AAPL",
+  "symbol": "BINANCE:BTCUSDT",
   "interval": "D",
   "timezone": "Etc/UTC",
   "theme": "light",
