@@ -13,22 +13,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### BTC
-<!-- TradingView Widget BEGIN -->
-<script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-  "autosize": true,
-  "symbol": "BINANCE:BTCUSDT",
-  "interval": "D",
-  "timezone": "Etc/UTC",
-  "theme": "light",
-  "style": "1",
-  "locale": "en",
-  "allow_symbol_change": true,
-  "support_host": "https://www.tradingview.com"
-}
-</script>
-<!-- TradingView Widget END -->
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PeaIsPea&icon=0&color=0)](https://visitcount.itsvg.in)
